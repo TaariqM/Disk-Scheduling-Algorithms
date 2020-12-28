@@ -5,4 +5,4 @@ The code will read an input.txt file, which contains 25 unique random numbers ra
 
 This code will write the seek sequence of each disk scheduling algorithm, as well as the total amount of head movement required by each algorithm, and produce this ouput into an output.txt file.
 
-To run this code, plese ensure that all files are downloaded, navigate to your working directory in your terminal, and enter 'make'.
+To run this code, please ensure that all files are downloaded, navigate to your working directory in your terminal, and enter 'make'.
